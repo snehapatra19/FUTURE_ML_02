@@ -1,0 +1,11 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,InternetService,Contract,MonthlyCharges,TotalCharges,Churn
+C001,Female,0,Yes,No,1,Yes,DSL,Month-to-month,29.85,29.85,0
+C002,Male,1,No,No,24,Yes,Fiber optic,One year,56.95,1889.5,1
+C003,Female,0,Yes,Yes,12,No,DSL,Month-to-month,53.85,1080.25,0
+C004,Male,0,No,No,5,Yes,Fiber optic,Two year,42.3,184.8,0
+C005,Female,1,No,No,3,Yes,DSL,Month-to-month,70.7,151.9,1
+C006,Male,1,Yes,Yes,60,Yes,Fiber optic,One year,89.1,5380.85,0
+C007,Female,0,No,No,45,No,DSL,Two year,49.9,2245.2,1
+C008,Male,1,Yes,No,2,Yes,DSL,Month-to-month,30.1,60.2,0
+C009,Female,0,No,Yes,18,Yes,Fiber optic,One year,65.5,1179.0,1
+C010,Male,0,Yes,No,72,Yes,DSL,Two year,99.65,6844.5,0
